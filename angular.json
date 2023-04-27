@@ -25,6 +25,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -94,5 +95,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "f70394ab-18eb-40e4-9ec7-51823df320ff"
   }
 }

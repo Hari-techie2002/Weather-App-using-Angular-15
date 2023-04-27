@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+
+.kaar{
+    color: greenyellow !important;
+    font-family: 'Lato', sans-serif;
+    font-size: 30px;
+    font-weight: 900;
+ }
+ .megam{
+    color: white !important;
+    font-family: 'Lato', sans-serif;
+    font-size:22px;
+ }
+ .navbar {
+     height:80px;
+     /* background-color: rgb(33, 199, 191) !important; */
+ }
+ .rounded{
+    width:100px;
+    height:70px;
+ }
+
+ body{
+    background-image: url("/assets/moving clouds.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width:100%;
+    height: 100vh;
+ }
+
+ .container-empty{
+   height:250px;
+ }
+
+ /* .content{
+   width:500px;
+ } */
+
+ .text-white{
+   font-size: 22px;
+ }
+
+ .kaarc{
+   font-size:45px;
+   color: greenyellow;
+   font-weight: 600;
+ }
+ .megamc{
+   font-size:33px;
+   color: orange;
+   font-weight: 600;
+ }

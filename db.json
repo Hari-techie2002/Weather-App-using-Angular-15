@@ -1,0 +1,88 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "Hari",
+      "lastName": "Venkatachalam",
+      "email": "harivenkatachalam45@gmail.com",
+      "mobile": "6379204221",
+      "salary": "1,50,000"
+    },
+    {
+      "id": 3,
+      "firstName": "Ragul",
+      "lastName": "Venkatachalam",
+      "email": "ragulvenkatachalam@gmail.com",
+      "mobile": "6379204221",
+      "salary": "1,50,000"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "Hari",
+      "email": "hariabcvenkat@gmail.com",
+      "password": "123456",
+      "mobile": 6379204221,
+      "id": 1
+    },
+    {
+      "fullname": "ragul",
+      "email": "ragul@gmail.com",
+      "password": "1234",
+      "mobile": 9566321544,
+      "id": 2
+    },
+    {
+      "fullname": "amma",
+      "email": "amma@gmail.com",
+      "password": "5689",
+      "mobile": 9566321544,
+      "id": 3
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "mobile": null,
+      "id": 4
+    },
+    {
+      "fullname": "lohitha",
+      "email": "lohitha@gmail.com",
+      "password": "7896",
+      "mobile": 25456322,
+      "id": 5
+    },
+    {
+      "fullname": "HariTechie",
+      "email": "harivenkatachalam094@gmail.com",
+      "password": "123456789",
+      "mobile": 9342838388,
+      "id": 6
+    },
+    {
+      "fullname": "Gnanaguru",
+      "email": "gnanagurus.ece2020@citchennai.net",
+      "password": "gurugnana",
+      "mobile": 8778047281,
+      "id": 7
+    },
+    {
+      "fullname": "balaji",
+      "email": "balaji@gmail.com",
+      "password": "qwert",
+      "mobile": 5986478959,
+      "id": 8
+    },
+    {
+      "fullname": "DevaHarish",
+      "email": "devaharish@gmail.com",
+      "password": "987654",
+      "mobile": 1234567890,
+      "id": 9
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,58 @@
+.card{
+    border: none;
+    width: 500px;
+    padding: 40px;
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: linear-gradient(to right, purple, rgb(1, 1, 173));
+    border-radius:30px;
+}
+
+.card h1,
+h6 {
+     color:#fff;
+}
+
+label{
+    color:#fff;
+}
+
+.text-info{
+    color:orangered !important;
+}
+
+.body{
+    background-color: #FBAB7E;
+    background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+}  
+
+h1{
+    color: yellow !important;
+}
+
+
+    .btn{
+        width:200px;
+        height:50px;
+        border-radius: 30px;
+    }
+
+    .btn-success{
+        background-color: rgb(1, 168, 1) !important;
+    }
+
+
+
+/* html
+{
+ margin:0px;
+ height:100%;
+ width:100%;
+ background:url('/assets/seashore lightning.jpg') no-repeat center center fixed; 
+ -webkit-background-size:cover;
+ -o-background-size:cover;
+ -moz-background-size:cover;
+ background-size:cover;
+} */
